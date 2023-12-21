@@ -15,3 +15,173 @@
 [20231221 09:26:58:341][INFO ][o.a.c.c.C.[Tomcat].[localhost].[/]] Initializing Spring DispatcherServlet 'dispatcherServlet'
 [20231221 09:26:58:341][INFO ][o.s.web.servlet.DispatcherServlet] Initializing Servlet 'dispatcherServlet'
 [20231221 09:26:58:342][INFO ][o.s.web.servlet.DispatcherServlet] Completed initialization in 1 ms
+[20231221 09:39:36:733][INFO ][com.example.demo.DemoApplication] Starting DemoApplication using Java 21.0.1 with PID 31976 (C:\Users\jhs512\IdeaProjects\html-java\target\classes started by jhs512 in C:\Users\jhs512\IdeaProjects\html-java)
+[20231221 09:39:36:734][INFO ][com.example.demo.DemoApplication] No active profile set, falling back to 1 default profile: "default"
+[20231221 09:39:36:762][INFO ][o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+[20231221 09:39:36:762][INFO ][o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+[20231221 09:39:37:349][INFO ][o.s.b.w.embedded.tomcat.TomcatWebServer] Tomcat initialized with port 4242 (http)
+[20231221 09:39:37:353][INFO ][o.apache.coyote.http11.Http11NioProtocol] Initializing ProtocolHandler ["http-nio-4242"]
+[20231221 09:39:37:355][INFO ][o.apache.catalina.core.StandardService] Starting service [Tomcat]
+[20231221 09:39:37:355][INFO ][org.apache.catalina.core.StandardEngine] Starting Servlet engine: [Apache Tomcat/10.1.16]
+[20231221 09:39:37:381][INFO ][o.a.c.c.C.[Tomcat].[localhost].[/]] Initializing Spring embedded WebApplicationContext
+[20231221 09:39:37:383][INFO ][o.s.b.w.s.c.ServletWebServerApplicationContext] Root WebApplicationContext: initialization completed in 621 ms
+[20231221 09:39:37:593][INFO ][o.s.b.d.a.OptionalLiveReloadServer] LiveReload server is running on port 35729
+[20231221 09:39:37:604][INFO ][o.apache.coyote.http11.Http11NioProtocol] Starting ProtocolHandler ["http-nio-4242"]
+[20231221 09:39:37:617][INFO ][o.s.b.w.embedded.tomcat.TomcatWebServer] Tomcat started on port 4242 (http) with context path ''
+[20231221 09:39:37:622][INFO ][com.example.demo.DemoApplication] Started DemoApplication in 1.177 seconds (process running for 1.602)
+[20231221 09:39:39:548][INFO ][o.a.c.c.C.[Tomcat].[localhost].[/]] Initializing Spring DispatcherServlet 'dispatcherServlet'
+[20231221 09:39:39:548][INFO ][o.s.web.servlet.DispatcherServlet] Initializing Servlet 'dispatcherServlet'
+[20231221 09:39:39:549][INFO ][o.s.web.servlet.DispatcherServlet] Completed initialization in 1 ms
+[20231221 10:02:08:849][INFO ][com.example.demo.DemoApplication] Starting DemoApplication using Java 21.0.1 with PID 47004 (C:\Users\jhs512\IdeaProjects\html-java\target\classes started by jhs512 in C:\Users\jhs512\IdeaProjects\html-java)
+[20231221 10:02:08:850][INFO ][com.example.demo.DemoApplication] No active profile set, falling back to 1 default profile: "default"
+[20231221 10:02:08:878][INFO ][o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+[20231221 10:02:08:878][INFO ][o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+[20231221 10:02:09:454][INFO ][o.s.b.w.embedded.tomcat.TomcatWebServer] Tomcat initialized with port 4242 (http)
+[20231221 10:02:09:459][INFO ][o.apache.coyote.http11.Http11NioProtocol] Initializing ProtocolHandler ["http-nio-4242"]
+[20231221 10:02:09:461][INFO ][o.apache.catalina.core.StandardService] Starting service [Tomcat]
+[20231221 10:02:09:461][INFO ][org.apache.catalina.core.StandardEngine] Starting Servlet engine: [Apache Tomcat/10.1.16]
+[20231221 10:02:09:486][INFO ][o.a.c.c.C.[Tomcat].[localhost].[/]] Initializing Spring embedded WebApplicationContext
+[20231221 10:02:09:486][INFO ][o.s.b.w.s.c.ServletWebServerApplicationContext] Root WebApplicationContext: initialization completed in 607 ms
+[20231221 10:02:09:711][INFO ][o.s.b.d.a.OptionalLiveReloadServer] LiveReload server is running on port 35729
+[20231221 10:02:09:720][INFO ][o.apache.coyote.http11.Http11NioProtocol] Starting ProtocolHandler ["http-nio-4242"]
+[20231221 10:02:09:731][INFO ][o.s.b.w.embedded.tomcat.TomcatWebServer] Tomcat started on port 4242 (http) with context path ''
+[20231221 10:02:09:736][INFO ][com.example.demo.DemoApplication] Started DemoApplication in 1.176 seconds (process running for 1.597)
+[20231221 10:02:11:267][INFO ][o.a.c.c.C.[Tomcat].[localhost].[/]] Initializing Spring DispatcherServlet 'dispatcherServlet'
+[20231221 10:02:11:267][INFO ][o.s.web.servlet.DispatcherServlet] Initializing Servlet 'dispatcherServlet'
+[20231221 10:02:11:268][INFO ][o.s.web.servlet.DispatcherServlet] Completed initialization in 1 ms
+[20231221 10:20:43:712][INFO ][com.example.demo.DemoApplication] Starting DemoApplication using Java 21.0.1 with PID 59344 (C:\Users\jhs512\IdeaProjects\html-java\target\classes started by jhs512 in C:\Users\jhs512\IdeaProjects\html-java)
+[20231221 10:20:43:713][INFO ][com.example.demo.DemoApplication] The following 1 profile is active: "secret"
+[20231221 10:20:43:742][INFO ][o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+[20231221 10:20:43:743][INFO ][o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+[20231221 10:20:44:315][INFO ][o.s.b.w.embedded.tomcat.TomcatWebServer] Tomcat initialized with port 4242 (http)
+[20231221 10:20:44:322][INFO ][o.apache.coyote.http11.Http11NioProtocol] Initializing ProtocolHandler ["http-nio-4242"]
+[20231221 10:20:44:323][INFO ][o.apache.catalina.core.StandardService] Starting service [Tomcat]
+[20231221 10:20:44:324][INFO ][org.apache.catalina.core.StandardEngine] Starting Servlet engine: [Apache Tomcat/10.1.16]
+[20231221 10:20:44:349][INFO ][o.a.c.c.C.[Tomcat].[localhost].[/]] Initializing Spring embedded WebApplicationContext
+[20231221 10:20:44:349][INFO ][o.s.b.w.s.c.ServletWebServerApplicationContext] Root WebApplicationContext: initialization completed in 606 ms
+[20231221 10:20:44:552][INFO ][o.s.b.d.a.OptionalLiveReloadServer] LiveReload server is running on port 35729
+[20231221 10:20:44:562][INFO ][o.apache.coyote.http11.Http11NioProtocol] Starting ProtocolHandler ["http-nio-4242"]
+[20231221 10:20:44:576][INFO ][o.s.b.w.embedded.tomcat.TomcatWebServer] Tomcat started on port 4242 (http) with context path ''
+[20231221 10:20:44:579][INFO ][com.example.demo.DemoApplication] Started DemoApplication in 1.15 seconds (process running for 1.509)
+[20231221 10:20:48:614][INFO ][o.a.c.c.C.[Tomcat].[localhost].[/]] Initializing Spring DispatcherServlet 'dispatcherServlet'
+[20231221 10:20:48:614][INFO ][o.s.web.servlet.DispatcherServlet] Initializing Servlet 'dispatcherServlet'
+[20231221 10:20:48:615][INFO ][o.s.web.servlet.DispatcherServlet] Completed initialization in 1 ms
+[20231221 10:21:13:088][ERROR][o.a.c.c.C.[.[.[/].[dispatcherServlet]] Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed: java.lang.NullPointerException: Cannot invoke "com.example.demo.OrderService.checkAmount(String, String)" because "this.orderService" is null] with root cause
+java.lang.NullPointerException: Cannot invoke "com.example.demo.OrderService.checkAmount(String, String)" because "this.orderService" is null
+	at com.example.demo.controller.WidgetController.confirmPayment(WidgetController.java:54)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:254)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:182)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:118)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:917)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:829)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1089)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:979)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1014)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:914)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:590)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:885)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:658)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:205)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:482)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:340)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:391)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:896)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1744)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+[20231221 10:21:56:277][ERROR][o.a.c.c.C.[.[.[/].[dispatcherServlet]] Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed: java.lang.NullPointerException: Cannot invoke "com.example.demo.OrderService.checkAmount(String, String)" because "this.orderService" is null] with root cause
+java.lang.NullPointerException: Cannot invoke "com.example.demo.OrderService.checkAmount(String, String)" because "this.orderService" is null
+	at com.example.demo.controller.WidgetController.confirmPayment(WidgetController.java:54)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:254)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:182)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:118)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:917)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:829)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1089)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:979)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1014)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:914)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:590)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:885)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:658)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:205)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:482)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:340)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:391)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:896)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1744)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+[20231221 10:22:05:995][INFO ][com.example.demo.DemoApplication] Starting DemoApplication using Java 21.0.1 with PID 44812 (C:\Users\jhs512\IdeaProjects\html-java\target\classes started by jhs512 in C:\Users\jhs512\IdeaProjects\html-java)
+[20231221 10:22:05:996][INFO ][com.example.demo.DemoApplication] The following 1 profile is active: "secret"
+[20231221 10:22:06:027][INFO ][o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+[20231221 10:22:06:027][INFO ][o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+[20231221 10:22:06:610][INFO ][o.s.b.w.embedded.tomcat.TomcatWebServer] Tomcat initialized with port 4242 (http)
+[20231221 10:22:06:616][INFO ][o.apache.coyote.http11.Http11NioProtocol] Initializing ProtocolHandler ["http-nio-4242"]
+[20231221 10:22:06:617][INFO ][o.apache.catalina.core.StandardService] Starting service [Tomcat]
+[20231221 10:22:06:617][INFO ][org.apache.catalina.core.StandardEngine] Starting Servlet engine: [Apache Tomcat/10.1.16]
+[20231221 10:22:06:644][INFO ][o.a.c.c.C.[Tomcat].[localhost].[/]] Initializing Spring embedded WebApplicationContext
+[20231221 10:22:06:644][INFO ][o.s.b.w.s.c.ServletWebServerApplicationContext] Root WebApplicationContext: initialization completed in 617 ms
+[20231221 10:22:06:875][INFO ][o.s.b.d.a.OptionalLiveReloadServer] LiveReload server is running on port 35729
+[20231221 10:22:06:882][INFO ][o.apache.coyote.http11.Http11NioProtocol] Starting ProtocolHandler ["http-nio-4242"]
+[20231221 10:22:06:895][INFO ][o.s.b.w.embedded.tomcat.TomcatWebServer] Tomcat started on port 4242 (http) with context path ''
+[20231221 10:22:06:899][INFO ][com.example.demo.DemoApplication] Started DemoApplication in 1.19 seconds (process running for 1.559)
+[20231221 10:22:11:186][INFO ][o.a.c.c.C.[Tomcat].[localhost].[/]] Initializing Spring DispatcherServlet 'dispatcherServlet'
+[20231221 10:22:11:186][INFO ][o.s.web.servlet.DispatcherServlet] Initializing Servlet 'dispatcherServlet'
+[20231221 10:22:11:186][INFO ][o.s.web.servlet.DispatcherServlet] Completed initialization in 0 ms
